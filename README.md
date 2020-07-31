@@ -20,4 +20,4 @@ I'm also averse to monetizing my hobbies because they because a second job once 
 
 I'm sharing the stl files so that those with the means can make their own dice. If it helps others, great!
 
-This also means that I can't test the issues with my files. They look fine, but I may have made mistakes in the design, so please let me know if there are issues with the stl files.
+I test each of these files by loading them into various stl viewers and Meshmixer. Thanks to Pete Kisner on Twitter for all of their assistance.
