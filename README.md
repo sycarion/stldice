@@ -21,3 +21,7 @@ I'm also averse to monetizing my hobbies because they because a second job once 
 I'm sharing the stl files so that those with the means can make their own dice. If it helps others, great!
 
 I test each of these files by loading them into various stl viewers and Meshmixer. Thanks to Pete Kisner on Twitter for all of their assistance.
+
+## Changelog
+
+2022-03-14: Added the big Sicherman d12
