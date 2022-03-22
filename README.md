@@ -24,5 +24,6 @@ I test each of these files by loading them into various stl viewers and Meshmixe
 
 ## Changelog
 
+2022-03-22: Restored Chitubox files for Dozenal D12s
 2022-03-15: Added the small 8 Sicherman d12
 2022-03-14: Added the big 16 Sicherman d12
