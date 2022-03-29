@@ -1,0 +1,1 @@
+The icons are from game-icons.net. All six were drawn by Lorc and are used under a CC 4.0 License.
