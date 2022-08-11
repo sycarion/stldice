@@ -1,5 +1,5 @@
-## Sicherman D12s
+## K.O.H.E. D12
 
-3.22.22 - Restored Dozenal d12 Chitubox files
-3.15.22 - added the 'small' Sicherman die.
-3.14.22 - added the 'big' Sicherman die.
+Keep Odd Halve Even dice were created for an rpg game I developed years ago. They are meant to be used with a regular d12.
+
+8.11.22 - Created the kohe d12 stl files with and without supports
