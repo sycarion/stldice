@@ -2,7 +2,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-All the stl files are shared under this license. I don't require it, but if you make dice with one or more of these designs, it would be nice if you could send me one. You can DM me on Twitter [@sycarion](https:/twitter.com/sycarion). 
+All the stl files are shared under this license. I don't require it, but if you make dice with one or more of these designs, it would be nice if you could let me know. You can DM me on Threads [@sycarion](https://www.threads.com/@sycarion). 
 
 ## Origin
 
